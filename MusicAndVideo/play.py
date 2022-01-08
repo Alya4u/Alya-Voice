@@ -110,7 +110,7 @@ async def play(client, m: Message):
     if replied:
         if replied.audio or replied.voice:
             await m.delete()
-            huehue = await replied.reply("**🔄 Memproses Request..**")
+            huehue = await replied.reply("**📮 Memproses Request..**")
             dl = await replied.download()
             link = replied.link
             if replied.audio:
