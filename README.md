@@ -1,6 +1,6 @@
 ### Music Dan Video Player Ubot
 <p align="center">
-<br><b>Skyzo-Player adalah userbot music Telegram untuk memutar lagu dan video di voice chat!</b><br>
+<br><b>Alya-Voice adalah userbot music Telegram untuk memutar lagu dan video di voice chat!</b><br>
 
 #### 📨 **Grup Chat? [Disini](t.me/flicksrobotsupport)**
 
@@ -20,11 +20,11 @@
 - `/skip` - untuk melewati lagu atau video
 - `/end` - untuk mengakhiri pemutaran
 
-#### 👩‍💻 Deploy Skyzo Player To Heroku
+#### 👩‍💻 Deploy Alya-Voice To Heroku
 
 #### 💜 Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ridho17-ind/Skyzo-Player)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Alya4u/Alya-Voice)
 
 
 ##### 📚 Variabel Yang Dibutuhkan
