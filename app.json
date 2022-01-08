@@ -1,5 +1,5 @@
 {
-    "name": "Music Dan Video Player UserBot",
+    "name": "Alya Player",
     "description": "Telegram UserBot Untuk Memutar Lagu Dan Video Di Obrolan Suara Telegram.",
     "logo": "https://telegra.ph/file/65a17994a6deab0e70e67.jpg",
     "keywords": [
@@ -7,7 +7,7 @@
         "MusicPlayer",
         "VideoPlayer"
     ],
-    "repository": "https://github.com/ridho17-ind/Skyzo-Player",
+    "repository": "https://github.com/Alya4u/Alya-Voice",
     "env": {
         "SESSION": {
             "description": "Pyrogram String Session",
