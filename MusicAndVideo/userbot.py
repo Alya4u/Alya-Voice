@@ -109,8 +109,7 @@ async def repo(client, m: Message):
 🔰 Telegram UserBot Untuk Memutar Lagu Dan Video Di Obrolan Suara Telegram.
 
 👩‍💻 Dipersembahkan Oleh 
-• [Flicks Support 1](https://t.me/FlicksSupport)
-• [Flicks Support 2](http://t.me/flicksrobotsupport)
+• [Flicks Support](http://t.me/flicksrobotsupport)
 
 
 📝 Persyaratan
@@ -147,7 +146,7 @@ async def repo(client, m: Message):
 🦹🏻 Deployment Userbot
 💜 Heroku
 
- [𝗗𝗘𝗣𝗟𝗢𝗬 𝗞𝗘 𝗛𝗘𝗥𝗢𝗞𝗨](https://heroku.com/deploy?template=https://github.com/ridho17-ind/Skyzo-Player)
+ [𝗗𝗘𝗣𝗟𝗢𝗬 𝗞𝗘 𝗛𝗘𝗥𝗢𝗞𝗨](https://heroku.com/deploy?template=https://github.com/Alya4u/Alya-Voice)
 
 📝 Variabel Yang Dibutuhkan
 • `API_ID` - Dapatkan Dari [my.telegram.org](https://my.telegram.org)
