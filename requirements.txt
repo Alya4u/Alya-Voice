@@ -9,7 +9,7 @@ wget
 python-arq
 youtube-search-python==1.4.6
 youtube-search-python
-yt-dlp
+git+https://github.com/Sorrybabe/downloader
 python-dotenv
 gTTS
 googletrans==4.0.0rc1
